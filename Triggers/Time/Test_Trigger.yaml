@@ -82,12 +82,12 @@ sysId: 096e7fb0599e4dd8b7611c39588c49fb
 tasks:
 - dir
 thu: false
-time: 20:10
+time: 00:00
 timeInterval:
 timeIntervalUnits: Hours
 timeStyle: Absolute
 timeZone:
 tue: false
 variables: []
-version: 7
+version: 8
 wed: false
