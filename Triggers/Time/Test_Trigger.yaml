@@ -1,0 +1,93 @@
+type: triggerTime
+action: Do Not Trigger
+adjustInterval: false
+adjustmentAmount: 1
+adjustmentType: Day
+calendar: EMCal
+customField1:
+  label:
+  value:
+customField2:
+  label:
+  value:
+dateAdjective: Every
+dateAdjustment: None
+dateNoun:
+  value: Day
+dateNouns:
+- value: Day
+dateQualifier:
+  value: Year
+dateQualifiers:
+- value: Year
+dayInterval: 1
+dayStyle: Every
+description:
+disabledTime: ''
+enabled: false
+enabledEnd: 00:00
+enabledStart: 00:00
+enabledTime: ''
+enforceVariables: false
+exportReleaseLevel: 7.8.3.0
+exportTable: ops_trigger_time
+forecast: false
+fri: false
+intervalStartingDate: '2025-07-15'
+lockVariables: false
+mon: false
+name: Test_Trigger
+nextScheduledTime: ''
+notes: []
+nthAmount: 5
+opswiseGroups: []
+rdExcludeBackup: false
+restrictedTimes: false
+restriction: false
+restrictionAdjective: Every
+restrictionComplex: false
+restrictionMode: Or
+restrictionNoun:
+  value: Day
+restrictionNouns:
+- value: Day
+restrictionNthAmount: 5
+restrictionQualifier:
+  value: Year
+restrictionQualifiers:
+- value: Year
+restrictionSimple: false
+retainSysIds: true
+retentionDuration: 1
+retentionDurationPurge: false
+retentionDurationUnit: Days
+sat: false
+simpleDateType: Daily
+simulateTasks: false
+simulationOption: -- System Default --
+situation: Holiday
+skipActive: false
+skipAfterDate:
+skipAfterTime:
+skipBeforeDate:
+skipBeforeTime:
+skipCondition: None
+skipCount: 0
+skipDateList: []
+skipRestriction: None
+startTimeEnable: false
+startingAt: '*:00'
+sun: false
+sysId: 096e7fb0599e4dd8b7611c39588c49fb
+tasks:
+- Triggered Task
+thu: false
+time: 16:30
+timeInterval:
+timeIntervalUnits: Hours
+timeStyle: Absolute
+timeZone:
+tue: false
+variables: []
+version: 3
+wed: false
