@@ -82,12 +82,12 @@ sysId: 37c88aeaba014cbca364dba3e2e51cb1
 tasks:
 - Triggered Task
 thu: false
-time: 00:00
+time: 01:15
 timeInterval:
 timeIntervalUnits: Hours
 timeStyle: Absolute
 timeZone:
 tue: false
 variables: []
-version: 4
+version: 6
 wed: false
