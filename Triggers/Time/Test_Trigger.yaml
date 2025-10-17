@@ -20,7 +20,7 @@ dateQualifier:
   value: Year
 dateQualifiers:
 - value: Year
-dayInterval: 1
+dayInterval: 2
 dayStyle: Every
 description:
 disabledTime: ''
@@ -89,5 +89,5 @@ timeStyle: Absolute
 timeZone:
 tue: false
 variables: []
-version: 3
+version: 4
 wed: false
