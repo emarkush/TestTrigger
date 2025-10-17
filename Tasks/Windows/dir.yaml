@@ -38,10 +38,12 @@ actions:
   setVariableActions: []
   snmpNotifications: []
   systemOperations: []
-agent: 7320138e20fb4d53b767c544ed09805c
+agent: WIN-DQDML0OOTPU - AGNT0002
 agentCluster:
 agentClusterVar:
 agentVar:
+avgRunTime: 2
+avgRunTimeDisplay: 2 Seconds
 broadcastCluster:
 broadcastClusterVar:
 command: dir
@@ -78,11 +80,13 @@ exitCodeOutput:
 exitCodeProcessing: Success Exitcode Range
 exitCodeText:
 exitCodes: '0'
-exportReleaseLevel: 7.8.3.0
+exportReleaseLevel: 7.9.0.0
 exportTable: ops_task_windows
-firstRun: ''
+firstRun: 2025-10-17 10:21:17 -0400
 holdResources: false
-lastRun: ''
+lastRun: 2025-10-17 10:21:17 -0400
+lastRunTime: 2
+lastRunTimeDisplay: 2 Seconds
 lfDayConstraint: None
 lfDuration: 00:00:00:00
 lfEnabled: false
@@ -101,6 +105,10 @@ lsEnabled: false
 lsNthAmount: 5
 lsTime: 00:00
 lsType: Time
+maxRunTime: 2
+maxRunTimeDisplay: 2 Seconds
+minRunTime: 2
+minRunTimeDisplay: 2 Seconds
 name: dir
 notes: []
 opswiseGroups: []
@@ -128,8 +136,8 @@ retryIndefinitely: false
 retryInterval: 60
 retryMaximum: 0
 retrySuppressFailure: false
-runCount: 0
-runTime: 0
+runCount: 1
+runTime: 2
 runtimeDir:
 script:
 simulation: false
@@ -149,6 +157,6 @@ twWaitType: None
 twWorkflowOnly: -- System Default --
 userEstimatedDuration:
 variables: []
-version: 7
+version: 8
 virtualResources: []
 waitForOutput: false

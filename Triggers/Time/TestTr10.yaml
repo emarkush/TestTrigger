@@ -29,7 +29,7 @@ enabledEnd: 00:00
 enabledStart: 00:00
 enabledTime: ''
 enforceVariables: false
-exportReleaseLevel: 7.8.3.0
+exportReleaseLevel: 7.9.0.0
 exportTable: ops_trigger_time
 forecast: false
 fri: false
@@ -82,12 +82,12 @@ sysId: 93f7719194b94a94992c11914d9e353b
 tasks:
 - dir
 thu: false
-time: 10:19
+time: 19:59
 timeInterval:
 timeIntervalUnits: Hours
 timeStyle: Absolute
 timeZone:
 tue: false
 variables: []
-version: 10
+version: 17
 wed: false
