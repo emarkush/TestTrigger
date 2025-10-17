@@ -1,0 +1,154 @@
+type: taskWindows
+actions:
+  abortActions: []
+  emailNotifications:
+  - attachFile: true
+    attachStdError: false
+    attachStdOut: false
+    bcc:
+    body: ffa
+    cc: emilija.markuseska@yahoo.com
+    description:
+    emailConnection: 79330be74ba545a28a560e5924a4bac6
+    emailTemplate:
+    emailTemplateVar:
+    exitCodes:
+    fileName: C:\Program Files\Universal\UAGSrv\emitest.csv
+    fileNumLines: 100
+    fileScanText: ''
+    fileStartLine: 1
+    listReportFormat: PDF
+    notifyOnEarlyFinish: false
+    notifyOnLateFinish: false
+    notifyOnLateStart: false
+    notifyOnProjectedLate: false
+    replyTo:
+    report:
+    reportVar:
+    status: Success
+    stderrNumLines: 100
+    stderrScanText: ''
+    stderrStartLine: 1
+    stdoutNumLines: 100
+    stdoutScanText: ''
+    stdoutStartLine: 1
+    subject: teswin
+    sysId: ee64bd41176b4b22bdfa276ec7297f45
+    to: emilija.markusheska@stonebranch.com
+  setVariableActions: []
+  snmpNotifications: []
+  systemOperations: []
+agent: 7320138e20fb4d53b767c544ed09805c
+agentCluster:
+agentClusterVar:
+agentVar:
+broadcastCluster:
+broadcastClusterVar:
+command: dir
+commandOrScript: Command
+cpDuration:
+cpDurationUnit: Minutes
+createConsole: false
+credentials:
+credentialsVar:
+customField1:
+  label:
+  value:
+customField2:
+  label:
+  value:
+desktopInteract: false
+efDayConstraint: None
+efDuration: 00:00:00:00
+efEnabled: false
+efNthAmount: 5
+efOffsetDuration:
+efOffsetDurationUnit: Minutes
+efOffsetPercentage: 0
+efOffsetType: Percentage
+efTime: 00:00
+efType: Time
+elevateUser: false
+enforceVariables: false
+environment: []
+exclusiveTasks: []
+exclusiveWithSelf: false
+executionRestriction: None
+exitCodeOutput:
+exitCodeProcessing: Success Exitcode Range
+exitCodeText:
+exitCodes: '0'
+exportReleaseLevel: 7.8.3.0
+exportTable: ops_task_windows
+firstRun: ''
+holdResources: false
+lastRun: ''
+lfDayConstraint: None
+lfDuration: 00:00:00:00
+lfEnabled: false
+lfNthAmount: 5
+lfOffsetDuration:
+lfOffsetDurationUnit: Minutes
+lfOffsetPercentage: 0
+lfOffsetType: Percentage
+lfTime: 00:00
+lfType: Time
+lockVariables: false
+logLevel: Inherited
+lsDayConstraint: None
+lsDuration: 00:00:00:00
+lsEnabled: false
+lsNthAmount: 5
+lsTime: 00:00
+lsType: Time
+name: dir
+notes: []
+opswiseGroups: []
+outputFailureOnly: false
+outputReturnFile:
+outputReturnNline: '100'
+outputReturnSline: '1'
+outputReturnText:
+outputReturnType: OUTERR
+outputType: STDOUT
+overrideInstanceWait: "No"
+parameters:
+resPriority: 10
+resPriorityVar:
+resolveNameImmediately: false
+restrictionPeriod: None
+restrictionPeriodAfterDate:
+restrictionPeriodAfterTime:
+restrictionPeriodBeforeDate:
+restrictionPeriodBeforeTime:
+restrictionPeriodDateList: []
+retainSysIds: true
+retryExitCodes:
+retryIndefinitely: false
+retryInterval: 60
+retryMaximum: 0
+retrySuppressFailure: false
+runCount: 0
+runTime: 0
+runtimeDir:
+script:
+simulation: false
+startHeld: false
+startHeldReason:
+summary:
+sysId: 05a1dc0824934a9bad9f5ec4065f4592
+timeZonePref: -- System Default --
+twDelayAmount:
+twDelayDuration: 00:00:00:00
+twDelayType: None
+twWaitAmount:
+twWaitDayConstraint: None
+twWaitDuration: 00:00:00:00
+twWaitTime: 00:00
+twWaitType: None
+twWorkflowOnly: -- System Default --
+userEstimatedDuration:
+variables: []
+version: 7
+virtualResources: []
+waitForOutput: false

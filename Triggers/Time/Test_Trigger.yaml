@@ -80,7 +80,7 @@ startingAt: '*:00'
 sun: false
 sysId: 096e7fb0599e4dd8b7611c39588c49fb
 tasks:
-- Triggered Task
+- dir
 thu: false
 time: 20:10
 timeInterval:
@@ -89,5 +89,5 @@ timeStyle: Absolute
 timeZone:
 tue: false
 variables: []
-version: 6
+version: 7
 wed: false
