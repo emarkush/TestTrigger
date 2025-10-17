@@ -40,7 +40,7 @@
     "enabledStart": "00:00",
     "enabledTime": "",
     "enforceVariables": false,
-    "exportReleaseLevel": "7.8.3.0",
+    "exportReleaseLevel": "7.9.0.0",
     "exportTable": "ops_trigger_time",
     "forecast": false,
     "fri": false,
@@ -102,13 +102,13 @@
         "dir"
     ],
     "thu": false,
-    "time": "16:59",
+    "time": "19:59",
     "timeInterval": null,
     "timeIntervalUnits": "Hours",
     "timeStyle": "Absolute",
     "timeZone": null,
     "tue": false,
     "variables": [],
-    "version": 14,
+    "version": 17,
     "wed": false
 }
