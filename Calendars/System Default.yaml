@@ -1,0 +1,25 @@
+businessDays:
+  value: Monday,Tuesday,Wednesday,Thursday,Friday
+comments: Default System Calendar
+customDays: []
+exportReleaseLevel: 7.8.3.0
+exportTable: ops_calendar
+firstDayOfWeek: Sunday
+firstQuarterStart:
+  day: '1'
+  month: Jan
+fourthQuarterStart:
+  day: '1'
+  month: Oct
+localCustomDays: []
+name: System Default
+opswiseGroups: []
+retainSysIds: true
+secondQuarterStart:
+  day: '1'
+  month: Apr
+sysId: 77171434c0a801c9016d5b2b5d17ddee
+thirdQuarterStart:
+  day: '1'
+  month: Jul
+version: 7
