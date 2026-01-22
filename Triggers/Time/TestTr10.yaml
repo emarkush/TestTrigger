@@ -80,14 +80,14 @@ startingAt: '*:00'
 sun: false
 sysId: 93f7719194b94a94992c11914d9e353b
 tasks:
-- dir
+- WIN The file name is ${ops_trigger_file_name_simple}
 thu: false
-time: 20:59
+time: 19:59
 timeInterval:
 timeIntervalUnits: Hours
 timeStyle: Absolute
 timeZone:
 tue: false
 variables: []
-version: 19
+version: 22
 wed: false
